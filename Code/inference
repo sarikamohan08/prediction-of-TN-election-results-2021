@@ -1,0 +1,3 @@
+the classic text classification alogirthms has been implemented (Support Vector Machines, Multinomial Naive Bayes)
+text preprocessing has been done using basic NLP techinques
+here Multinomial Naive bayes works better than Support Vector Machines  and gives better accuracy
